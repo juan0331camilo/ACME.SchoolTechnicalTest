@@ -1,7 +1,7 @@
 
-Steps for Runner application in local 
+Steps for start application in local 
 
-Note: for runner service of login, typing this is credentials
+Note: for start service of login, typing this is credentials
 ```shell
 {
   "userId": "c0de77dd-adc7-4a25-ad0d-d89b4a69ca00",
@@ -29,7 +29,7 @@ $ cd ACME.School
 # Deployment of services (frontend and backends) in Docker of the ACME School Platform
 This repository contains the files and commands necessary to deploy the services (frontend and backends) in Docker of the ACME School Platform
 
- Steps for runner application in Docker.
+ Steps for start application in Docker.
 1. Clone this repository:
 ```shell
 $ git clone https://github.com/juan0331camilo/ACME.SchoolTechnicalTest
