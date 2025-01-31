@@ -1,0 +1,4 @@
+nameBd : AcmeSchoolDB
+User :  UserAcmeSchool
+Password:  a9XIW3$?,[s5dq6
+Server:  acmeschoolproject.database.windows.net

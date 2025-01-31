@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+
+  ms-acme-school:
+    build:
+      context: .
+      dockerfile: ACME.School.WebApi.Dockerfile
+    image: ms-acme-school
+    ports:
+      - "3000:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=${ASPNETCORE_ENVIRONMENT}
